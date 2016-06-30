@@ -1,0 +1,15 @@
+Homepage:
+http://www.sipbike.com/map.asp
+http://www.subicycle.com/map.asp
+
+name, lat, lng, address:
+http://218.93.33.59:85/map/szmap/ibikestation.asp
+
+pic:
+http://218.93.33.59:85/map/szmap/img/549.jpg
+http://www.sipbike.com/UploadFile/549.jpg
+
+remain, empty:
+http://218.93.33.59:85/map/szmap/ibikegif.asp?id=549&flag=1
+http://218.93.33.59:85/map/szmap/ibikegif.asp?id=549&flag=2
+http://218.93.33.59:85/map/szmap/ibikegif.asp?id=549&flag=3
